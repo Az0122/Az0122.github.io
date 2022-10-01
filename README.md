@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <h1 id="a">Malware Devlopment Roadmap</h1>
 <p>From <a href="https://instagram.com/r7jhz1">A Z O</a> to <a href="https://instagram.com/hereioz">Hereioz</a></p>
@@ -62,5 +60,3 @@
 
  </ul>
 <a href="#a">backup</a>
-</body>
-</html>
