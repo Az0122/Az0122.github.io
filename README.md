@@ -18,6 +18,7 @@
  <li>how to make a trojan</li><br>
  <li>how to make a rootkit</li><br>
  <li>how to make a keylogger</li><br>
+ <li>how to make a virus that kill the computer</li><br>
 </ul>
  <li><h3>what is process mean ? </h3></li><br>
  <ul>
